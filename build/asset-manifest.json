@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/connectToBackend/static/css/main.bee815cc.chunk.css",
+    "main.js": "/connectToBackend/static/js/main.41762bce.chunk.js",
+    "main.js.map": "/connectToBackend/static/js/main.41762bce.chunk.js.map",
+    "runtime-main.js": "/connectToBackend/static/js/runtime-main.a1567d45.js",
+    "runtime-main.js.map": "/connectToBackend/static/js/runtime-main.a1567d45.js.map",
+    "static/css/2.835acb34.chunk.css": "/connectToBackend/static/css/2.835acb34.chunk.css",
+    "static/js/2.4e72b7c0.chunk.js": "/connectToBackend/static/js/2.4e72b7c0.chunk.js",
+    "static/js/2.4e72b7c0.chunk.js.map": "/connectToBackend/static/js/2.4e72b7c0.chunk.js.map",
+    "static/js/3.5b68bfb1.chunk.js": "/connectToBackend/static/js/3.5b68bfb1.chunk.js",
+    "static/js/3.5b68bfb1.chunk.js.map": "/connectToBackend/static/js/3.5b68bfb1.chunk.js.map",
+    "index.html": "/connectToBackend/index.html",
+    "static/css/2.835acb34.chunk.css.map": "/connectToBackend/static/css/2.835acb34.chunk.css.map",
+    "static/css/main.bee815cc.chunk.css.map": "/connectToBackend/static/css/main.bee815cc.chunk.css.map",
+    "static/js/2.4e72b7c0.chunk.js.LICENSE.txt": "/connectToBackend/static/js/2.4e72b7c0.chunk.js.LICENSE.txt",
+    "static/media/logotype.e3e0b841.svg": "/connectToBackend/static/media/logotype.e3e0b841.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1567d45.js",
+    "static/css/2.835acb34.chunk.css",
+    "static/js/2.4e72b7c0.chunk.js",
+    "static/css/main.bee815cc.chunk.css",
+    "static/js/main.41762bce.chunk.js"
+  ]
+}
